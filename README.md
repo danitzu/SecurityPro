@@ -11,8 +11,11 @@ File Structure 'FunctionsDisabler' 'Installer' 'SecurityPro'
 
 # todo
 Setup a Fake 'Emergency Mode' for Browsers, however for now it is referencing the Rogue
+
 Finish the Rogue (currently just looks at md5 hashes, and has a basic history function)
+
 I may try mimc the 'fake scanners' which would have a believable explorer scanner and have a fake scanner saying you had many viruses, and then ask you to download ther scanner
 
 # other
-I am new to coding (and i did kinda use a LLM to help me out, but most of the code is myne.) and also, if someone has more experience with C# and is willing to help please do so, i'd immensily appreciate it.
+I am new to coding (and i did kinda use a LLM to help me out, but most of the code is myne).
+If someone has more experience with C# and is willing to help please do so, i'd immensily appreciate it.
